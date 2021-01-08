@@ -1,0 +1,5 @@
+<resources>
+    <!---Cambiamos el Nombre de la Aplicacion-->
+    <string name="app_name">Capturar Datos </string>
+
+</resources>
